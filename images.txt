@@ -6,4 +6,5 @@
 #linuxserver/jellyfin
 
 
-eosphorosai/dbgpt-allinone:latest
+# eosphorosai/dbgpt-allinone:latest
+nvidia/cuda:11.7.1-devel-ubuntu22.04
