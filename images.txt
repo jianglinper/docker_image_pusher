@@ -1,5 +1,5 @@
 # ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release-openvino
+# ghcr.io/immich-app/immich-machine-learning:release-openvino
 # redis:6.2-alpine@sha256:2ba50e1ac3a0ea17b736ce9db2b0a9f6f8b85d4c27d5f5accc6a416d8f42c6d5
 # tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 
@@ -7,3 +7,5 @@ ghcr.io/immich-app/immich-machine-learning:release-openvino
 
 # alist镜像
 #xhofe/alist:v3.40.0-ffmpeg
+
+ghcr.io/wy580477/musicn-container:latest
