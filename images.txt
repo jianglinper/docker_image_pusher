@@ -8,4 +8,7 @@
 # alist镜像
 #xhofe/alist:v3.40.0-ffmpeg
 
-ghcr.io/wy580477/musicn-container:latest
+#ghcr.io/wy580477/musicn-container:latest
+
+#NVIDIAdls工具
+makedie/fastapi-dls:2.0.2
