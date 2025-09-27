@@ -1,14 +1,10 @@
-# ghcr.io/immich-app/immich-server:release
-# ghcr.io/immich-app/immich-machine-learning:release-openvino
-# redis:6.2-alpine@sha256:2ba50e1ac3a0ea17b736ce9db2b0a9f6f8b85d4c27d5f5accc6a416d8f42c6d5
-# tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
-
-# eosphorosai/dbgpt:latest
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
+docker.io/valkey/valkey:8-bookworm@sha256:fea8b3e67b15729d4bb70589eb03367bab9ad1ee89c876f54327fc7c6e618571
+ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:c44be5f2871c59362966d71eab4268170eb6f5653c0e6170184e72b38ffdf107
 
 # alist镜像
 #xhofe/alist:v3.40.0-ffmpeg
 
-#ghcr.io/wy580477/musicn-container:latest
-
-#NVIDIAdls工具
-makedie/fastapi-dls:2.0.2
+# NVIDIAdls工具
+#makedie/fastapi-dls:2.0.2
