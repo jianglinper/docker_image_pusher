@@ -9,4 +9,6 @@
 # NVIDIAdls工具
 #makedie/fastapi-dls:2.0.2
 
-ghcr.io/senshinya/moontv:latest
+#ghcr.io/senshinya/moontv:latest
+
+frangoteam/fuxa:latest
